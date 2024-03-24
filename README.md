@@ -1,9 +1,6 @@
 ### Hi there 👋
  I'm David
- I'm currently working at amazon as a Process assistant
- I'm currently learning to code through tech elevator
- I'm new to coding
- If you need to reach me feel free to message me on slack or chime
+ I'm currently working at amazon as a Process assistant, I'm currently learning to code through tech elevator, I'm new to coding, If you need to reach me feel free to message me on slack or chime
 <!--
 **davidgoldhirsh/davidgoldhirsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
